@@ -1,8 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RotateHouse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\WEEK2\Assets\Scripts\characterMotor.cs">
     <Files>
-      <File FileName="Assets\Scripts\RotateHouse.cs" Line="6" Column="9" />
+      <File FileName="Assets\Scripts\RotateShip.cs" Line="18" Column="57" />
+      <File FileName="Assets\Scripts\TextChanger.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\TriggerLight.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\RotateBox.cs" Line="18" Column="4" />
+      <File FileName="Assets\Scripts\BallDropper.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\CreateBall.cs" Line="12" Column="12" />
+      <File FileName="..\WEEK2\Assets\Scripts\characterMotor.cs" Line="26" Column="78" />
+      <File FileName="..\WEEK2\Assets\Scripts\clicktomove.cs" Line="35" Column="98" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
